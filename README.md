@@ -3,7 +3,9 @@
 Dit is een wordpress plugin
 Het gebruikt de shortcode [custom_map] om het te kunnen weergeven in bijvoorbeeld een post
 
+https://github.com/Rubber02/HerkansingExamen/assets/70972389/6d05635d-4c88-4a02-a02c-4a6dfaef501a
 
 
-https://github.com/Rubber02/HerkansingExamen/assets/70972389/820b6043-639f-48cd-b0e3-5cbc6f039401
+
+
 
