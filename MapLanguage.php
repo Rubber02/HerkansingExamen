@@ -127,7 +127,7 @@ function render_custom_map() {
                 mouseover: highlightFeature,
 			    mouseout: resetHighlight,
                 click: function(e){
-                    window.location = "https://www.holland.com/be_nl/toerisme";
+                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/home-pagina/";
                 }
             })
         }
@@ -139,7 +139,7 @@ function render_custom_map() {
                 mouseover: highlightFeature,
 			    mouseout: resetHighlight,
                 click: function(e){
-                    window.location = "https://www.deutschland.de/en/travel-in-germany";
+                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/homepage-de/";
                 }
             })
         }
@@ -151,7 +151,7 @@ function render_custom_map() {
                 mouseover: highlightFeature,
 			    mouseout: resetHighlight,
                 click: function(e){
-                    window.location = "https://www.visitbritain.com/en";
+                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/";
                 }
             })
         }
@@ -163,7 +163,7 @@ function render_custom_map() {
                 mouseover: highlightFeature,
 			    mouseout: resetHighlight,
                 click: function(e){
-                    window.location = "https://goturkiye.com/";
+                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/71-2/";
                 }
             })
         }
