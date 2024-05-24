@@ -163,7 +163,7 @@ function render_custom_map() {
                 mouseover: highlightFeature,
 			    mouseout: resetHighlight,
                 click: function(e){
-                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/71-2/";
+                    window.location = "http://localhost/VirtaskWP/wordpress-6.1.1/wordpress/homepage-tr/";
                 }
             })
         }
